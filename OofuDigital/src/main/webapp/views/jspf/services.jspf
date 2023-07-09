@@ -1,0 +1,154 @@
+<!-- Service Start -->
+		<div class="container-xxl py-5">
+			<div class="container px-lg-5">
+				<div
+					class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp"
+					data-wow-delay="0.1s">
+					<h6 class="position-relative d-inline text-primary ps-4">Our
+						Services</h6>
+					<h2 class="mt-2">Transforming Ideas into Innovative Solutions</h2>
+				</div>
+				<div class="row g-4">
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/erp.png" alt="alternatetext" style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">Custom Software</h5>
+							<p>Tailored solutions to meet your unique business needs.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/android.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">Android Applications</h5>
+							<p>Powerful mobile apps that captivate your audience.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/cloud-service.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">SaaS Development</h5>
+							<p>Scalable and efficient software-as-a-service solutions.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/stakeholder.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">HRMS</h5>
+							<p>Streamlined human resource management systems for optimal
+								efficiency.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/infrastructure.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">ERP</h5>
+							<p>Integrated enterprise resource planning solutions for
+								seamless operations.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/testing.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">Software Testing</h5>
+							<p>Rigorous testing to ensure quality, reliability, and
+								performance.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/social-media.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">Digital Marketing</h5>
+							<p>Strategic online campaigns that drive growth and
+								engagement.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/ux-interface.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">UI/UX Design</h5>
+							<p>Stunning user interfaces and intuitive experiences that
+								leave a lasting impression.</p>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+						<div
+							class="service-item d-flex flex-column justify-content-center text-center rounded">
+							<div class="image">
+								<img src="/views/images/apple.png" alt="alternatetext"
+									style="width: 90px;">
+							</div>
+							<div>
+								<p></p>
+							</div>
+							<h5 class="mb-3">IOS Applications</h5>
+							<p>Powerful IOS apps that captivate your audience.</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Service End -->

@@ -1,0 +1,88 @@
+<!-- Portfolio Start -->
+<div class="container-xxl py-5">
+	<div class="container px-lg-5">
+		<div
+			class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp"
+			data-wow-delay="0.1s">
+			<h6 class="position-relative d-inline text-primary ps-4">Technologies
+				We Use</h6>
+			<h2 class="mt-2">New technology creates powerful, future-ready
+				apps with advanced features</h2>
+		</div>
+		<div class="row mt-n2 wow fadeInUp" data-wow-delay="0.1s">
+			<div class="col-12 text-center">
+				<ul class="list-inline mb-5" id="portfolio-flters">
+					<li class="btn px-3 pe-4 active" data-filter="*">All</li>
+					<li class="btn px-3 pe-4" data-filter=".first">Frontend</li>
+					<li class="btn px-3 pe-4" data-filter=".second">Backend</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row g-4 portfolio-container">
+			<div class="col-lg-4 col-md-6 portfolio-item first wow zoomIn"
+				data-wow-delay="0.1s"
+				style="position: absolute; left: 0px; top: 0px; visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndAngular.jpg"
+						alt="">
+
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item second wow zoomIn"
+				data-wow-delay="0.3s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2nddotnet.jpg"
+						alt="">
+
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item second wow zoomIn"
+				data-wow-delay="0.3s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndjava.jpg"
+						alt="">
+
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item first wow zoomIn"
+				data-wow-delay="0.6s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndReactJs.jpg"
+						alt="">
+
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item second wow zoomIn"
+				data-wow-delay="0.1s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndspring.jpg"
+						alt="">
+
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item first wow zoomIn"
+				data-wow-delay="0.3s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndtypescript.png"
+						alt="">
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item first wow zoomIn"
+				data-wow-delay="0.3s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2nddodejs.jpg" alt="">
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item second wow zoomIn"
+				data-wow-delay="0.6s">
+				<div class="position-relative rounded overflow-hidden">
+					<img class="img-fluid w-100" src="/views/images/2ndpython.jpg"
+						alt="">
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+</div>
+<!-- Portfolio End -->

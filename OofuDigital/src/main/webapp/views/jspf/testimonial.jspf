@@ -1,0 +1,70 @@
+<!-- Testimonial Start -->
+		<div
+			class="container-xxl bg-primary testimonial py-5 my-5 wow fadeInUp"
+			data-wow-delay="0.1s">
+			<div class="container py-5 px-lg-5">
+				<div class="owl-carousel testimonial-carousel">
+					<div
+						class="testimonial-item bg-transparent border rounded text-white p-4">
+						<i class="fa fa-quote-left fa-2x mb-3"></i>
+						<div class="feedback">
+						<p>From the initial discussions to the final product, you have exhibited professionalism, excellent communication, and a deep understanding of my requirements. You listened attentively to my needs and translated them into a user-friendly software solution that perfectly suits my business operations.</p>
+						</div>
+						<div class="d-flex align-items-center">
+							<img class="img-fluid flex-shrink-0 rounded-circle"
+								src="/views/images/testimonial-1.jpg" style="width: 50px; height: 50px;">
+							<div class="ps-3">
+								<h6 class="text-white mb-1">Manish Singh Chauhan</h6>
+								<small>Founder - Neha Real Estate</small>
+							</div>
+						</div>
+					</div>
+					<div
+						class="testimonial-item bg-transparent border rounded text-white p-4">
+						<i class="fa fa-quote-left fa-2x mb-3"></i>
+						<div class="feedback">
+						<p>I appreciate your attention to detail and the promptness with which you addressed any issues or questions that arose during the development process. Your commitment to delivering a high-quality product within the agreed timeline has exceeded my expectations</p>
+						</div>
+						<div class="d-flex align-items-center">
+							<img class="img-fluid flex-shrink-0 rounded-circle"
+								src="/views/images/testimonial-2.jpg" style="width: 50px; height: 50px;">
+							<div class="ps-3">
+								<h6 class="text-white mb-1">Siddhart Durbar</h6>
+								<small>Founder - Textile Company</small>
+							</div>
+						</div>
+					</div>
+					<div
+						class="testimonial-item bg-transparent border rounded text-white p-4">
+						<i class="fa fa-quote-left fa-2x mb-3"></i>
+						<div class="feedback">
+						<p>The developed billing software has streamlined my daily processes, enabling to manage transactions and generate accurate reports effortlessly. The intuitive interface and seamless functionality have made it easier for my staff to adapt to the new system and serve our customers more efficiently.</p>
+						</div>
+						<div class="d-flex align-items-center">
+							<img class="img-fluid flex-shrink-0 rounded-circle"
+								src="/views/images/testimonial-3.jpg" style="width: 50px; height: 50px;">
+							<div class="ps-3">
+								<h6 class="text-white mb-1">Vipul Vyas</h6>
+								<small>Owner - Vyasji Collections</small>
+							</div>
+						</div>
+					</div>
+					<div
+						class="testimonial-item bg-transparent border rounded text-white p-4">
+						<i class="fa fa-quote-left fa-2x mb-3"></i>
+						<div class="feedback">
+							<p>Overall, I am extremely satisfied with the inventory software you have created for my shop. It has not only simplified my daily operations but also enhanced the professionalism and effectiveness of my business.</p>
+						</div>
+						<div class="d-flex align-items-center">
+							<img class="img-fluid flex-shrink-0 rounded-circle"
+								src="/views/images/testimonial-4.jpg" style="width: 50px; height: 50px;">
+							<div class="ps-3">
+								<h6 class="text-white mb-1">Vijay Manekar</h6>
+								<small>Owner - Harilila Gems Company</small>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Testimonial End -->
